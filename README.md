@@ -12,9 +12,9 @@ This project helps me understand the process, learn how to use programming langu
 
 ## Built With
 
--[Python]
--[Power BI]
--[SQL Server]
+- [Python]
+- [Power BI]
+- [SQL Server]
 
 ## Table Of Contents
 
