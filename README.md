@@ -60,6 +60,9 @@ Defining an effective data structure in a dashboard is important. The images bel
 ## Query Data Using SQL
 
 
+
+![image](https://github.com/user-attachments/assets/2055b705-376b-4276-9d3a-ee02600c2a36)
+
   
 
 
