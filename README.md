@@ -8,6 +8,7 @@ This project helps me understand the process, learn how to use programming langu
 
 ## Data sauce 
 
+given in DataSauce folder ( as .bak file )
 
 
 ## Built With
@@ -43,6 +44,23 @@ So I provided my golds are
 - **Improve Customer Feedback Scores** : Understand common themes in customer reviews and provid actionable insights.
 
 ## Data Model
+
+Defining an effective data structure in a dashboard is important. The images below show tables used in analysis.
+
+![image](https://github.com/user-attachments/assets/1fb5a7a7-746a-430b-8fb1-1ffd6cf89007)
+
+**Table used in this model**
+
+- customers - Data related to each individual customers, their CustomerID, Age, etc.
+- products - Data related to each individual products, their ProductID, price, etc.
+- customer_journey - Data of every Jouney recorded by their CustomerID, ProductID, action such as View and Click etc.
+- customer_reviews - Every review recorded and their reviewText.
+- engagement_data - Data of every engagement relate to their ContentType.
+
+## Query Data with SQL
+
+
+  
 
 
 
