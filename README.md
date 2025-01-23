@@ -13,15 +13,15 @@ given in DataSauce folder ( as .bak file )
 
 ## Built With
 
-- [Python]
-- [Power BI]
-- [SQL Server]
+- [Python](https://www.python.org/)
+- [Power BI](https://powerbi.microsoft.com/en-us/)
+- [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 
 ## Table Of Contents
 
 - [Introduction to Business Problem](#introduction-to-business-problem)
 - [Data Model](#data-model)
-- [Query Data with SQL](#query-data-with-sql)
+- [Query Data Using SQL](#query-data-with-sql)
 - [Sentiment Analysis Using Python](#sentiment-analysis-using-python)
 - [Building an Interactive Dashboard With Power BI](#building-an-interactive-dashboard-with-poer-bi)
 - [Data Analysis](#data-analysis)
@@ -49,7 +49,7 @@ Defining an effective data structure in a dashboard is important. The images bel
 
 ![image](https://github.com/user-attachments/assets/1fb5a7a7-746a-430b-8fb1-1ffd6cf89007)
 
-**Table used in this model**
+**Tables used in this model**
 
 - customers - Data related to each individual customers, their CustomerID, Age, etc.
 - products - Data related to each individual products, their ProductID, price, etc.
@@ -57,7 +57,7 @@ Defining an effective data structure in a dashboard is important. The images bel
 - customer_reviews - Every review recorded and their reviewText.
 - engagement_data - Data of every engagement relate to their ContentType.
 
-## Query Data with SQL
+## Query Data Using SQL
 
 
   
