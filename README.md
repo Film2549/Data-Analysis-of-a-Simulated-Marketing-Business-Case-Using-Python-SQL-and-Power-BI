@@ -8,7 +8,7 @@ This project helps me understand the process, learn how to use programming langu
 
 ## Data sauce 
 
-given in [Data sauce](./Data-sauce.) folder ( as `.bak` file ).
+given in [Data sauce](https://github.com/Film2549/Film-s-project/tree/main/Data%20source) folder ( as `.bak` file ).
 
 
 ## Built With
@@ -70,7 +70,7 @@ Open and connect to my local database on my computer using Microsoft SQL Server 
 - customer_reviews : Query to clean whitespace issues in the reviewText column. The new table is `fact_customer_reviews`.
 - engagement_data : Query for Extracting and splitting combined metrics (Views and Clicks), formatting dates for uniformity, and standardizing values. The new table is `fact_engagement_data`.
 
-You can see full codes in [SQL Queries](./SQL-Queries/) folder.
+You can see full codes in [SQL Queries](https://github.com/Film2549/Film-s-project/tree/main/SQL%20Queries) folder.
 
 ## Sentiment Analysis Using Python
 
@@ -86,7 +86,7 @@ In the fact_customer_reviews table, there are various review comments. I applied
 5. Bucket Sentiment Scores : Group a Sentiment score into predefine text ranges such as 0.5 to 1.0 (Strongly Positive), 0.0 to 0.49 (Mildly Positive), etc. Add  `SentimentBucket` column to the Dataframe.
 6. Save the updated DataFrame to a new CSV file named `fact_customer_reviews_with_sentiment.csv`.
 
-you can view full code in [Python Code](./python-code/) folder.
+you can view full code in [Python Code](https://github.com/Film2549/Film-s-project/tree/main/SQL%20Queries) folder.
 
 
 
