@@ -109,9 +109,17 @@ Analyze the conversion by differnt action and product-specific perfomance.
 ![image](https://github.com/user-attachments/assets/8f52cbf9-9db1-482e-ad82-3dc8290e3ff5)
 
 ### Social Media Page
-Tracks social media important engagement and the impact of content types.
+Tracks social media important engagement result and the impact of content types.
+
 ![image](https://github.com/user-attachments/assets/5d4ce1c3-165d-42ef-8cfe-ba16d16cfc34)
 
+### Customer Review Page 
+
+Evaluate Customer feedback and rating to different products to find actionable insight.
+
+![image](https://github.com/user-attachments/assets/d04e8596-a8e8-4ce3-856b-966ee131d639)
+
+## Data Analysis
 
 
 
