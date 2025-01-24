@@ -129,7 +129,12 @@ Here is a brief analysis and summary following provided goals above. The full pr
 
 Suggesttion : Focus marketing efforts on products that show high conversion rates, such as Kayaks, Ski Boots, and Baseball Gloves. Implement seasonal promotions during peak months (e.g., January and September) to make these trend significantly more profitable.
 
-![image](https://github.com/user-attachments/assets/dccaac12-4acb-4fb3-be4f-f8662358df95)
+![image](https://github.com/user-attachments/assets/ab53e8d4-20c9-439c-a2f2-d1726612e817)
+
+2. **Enhance Customer Engagement**
+
+Suggestion : 
+
 
 
 
