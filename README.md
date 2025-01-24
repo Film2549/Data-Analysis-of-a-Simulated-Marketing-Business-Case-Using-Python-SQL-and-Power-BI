@@ -66,7 +66,11 @@ Open and connect to my local database on my computer using Microsoft SQL Server 
 
 - customers : Query to join dim_customers with dim_geography to enrich customer data with geographic information. The new table is *dim_customers*.
 - products : Query to categoriz products based on their price. The new table is *dim_products*.
-- 
+- customer_journey : Query to clean table by removing duplicates, handle missing values by replacing them with calculated averages then get a new table named *fact_customer_journey*.
+- customer_reviews : Query to clean whitespace issues in the reviewText column. The new table is *fact_customer_reviews*.
+- engagement_data : Query for Extracting and splitting combined metrics (Views and Clicks), formatting dates for uniformity, and standardizing values. The new table is *fact_engagement_data*.
+
+You can see full codes in [SQL Queries folder].
 
 
 
