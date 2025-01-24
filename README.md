@@ -70,7 +70,7 @@ Open and connect to my local database on my computer using Microsoft SQL Server 
 - customer_reviews : Query to clean whitespace issues in the reviewText column. The new table is *fact_customer_reviews*.
 - engagement_data : Query for Extracting and splitting combined metrics (Views and Clicks), formatting dates for uniformity, and standardizing values. The new table is *fact_engagement_data*.
 
-You can see full codes in [SQL Queries folder].
+You can see full codes in [SQL Queries](./SQL-Queries/) folder.
 
 
 
