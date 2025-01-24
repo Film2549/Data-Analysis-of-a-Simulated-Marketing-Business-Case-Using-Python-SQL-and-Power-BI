@@ -8,7 +8,7 @@ This project helps me understand the process, learn how to use programming langu
 
 ## Data sauce 
 
-given in DataSauce folder ( as .bak file )
+given in DataSauce folder ( as `.bak` file )
 
 
 ## Built With
@@ -47,7 +47,7 @@ So I provided my golds are
 
 Defining an effective data structure in a dashboard is important. The images below show tables used in analysis.
 
-![image](https://github.com/user-attachments/assets/1fb5a7a7-746a-430b-8fb1-1ffd6cf89007)
+![image](https://github.com/user-attachments/assets/0bc60b8d-a77b-4ab5-b9b2-0c482f5f0ac5)
 
 **Tables used in this model**
 
@@ -56,14 +56,17 @@ Defining an effective data structure in a dashboard is important. The images bel
 - customer_journey - Data of every Jouney recorded by their CustomerID, ProductID, action such as View and Click etc.
 - customer_reviews - Every review recorded and their reviewText.
 - engagement_data - Data of every engagement relate to their ContentType.
+- geography - GeographyID reference for mapping countries to their capital cities.
 
 ## Query Data Using SQL
 
-
+Open and connect to my local database on my computer using Microsoft SQL Server Management Studio, then restore the `.bak` file and have database named PortfolioProject_MarketingAnalytics. Write an SQL statement for each table based on requirements. Below is a summary of the work I have completed.
 
 ![image](https://github.com/user-attachments/assets/2055b705-376b-4276-9d3a-ee02600c2a36)
 
-  
+- customers : Query to join dim_customers with dim_geography to enrich customer data with geographic information. The new table is *dim_customers*.
+- products : Query to categoriz products based on their price. The new table is *dim_products*.
+- 
 
 
 
