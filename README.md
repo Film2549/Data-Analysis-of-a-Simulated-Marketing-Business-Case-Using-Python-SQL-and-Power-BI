@@ -119,6 +119,8 @@ Evaluate Customer feedback and rating to different products to find actionable i
 
 ![image](https://github.com/user-attachments/assets/d04e8596-a8e8-4ce3-856b-966ee131d639)
 
+`.pbix` file and dashboard screen shot are in [Dashboard] folder.
+
 ## Data Analysis
 
 
