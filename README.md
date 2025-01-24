@@ -124,6 +124,8 @@ Evaluate Customer feedback and rating to different products to find actionable i
 ## Data Analysis
 
 Here is a brief analysis and summary following provided goals above. The full presentation slide are the [] file.
+![image](https://github.com/user-attachments/assets/b0685906-7f69-4dd8-955c-7fa8cb099abf)
+
 
 1. **Increase Conversion Rates**
 
