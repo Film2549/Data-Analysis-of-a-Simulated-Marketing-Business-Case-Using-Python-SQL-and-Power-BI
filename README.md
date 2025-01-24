@@ -38,7 +38,7 @@ From reading above, I set that KPIs are
 - **Customer Engagement Rate** : Level of interaction with marketing content (clicks, likes, comments)
 - **Customer Feedback Score** : Average rating from customer reviews.
 
-So I provided my golds are
+So I provided my goals are
 - **Increase Conversion Rates** : Identify factors impacting the conversion rate and provide recommendations to improve it.
 - **Enhance Customer Engagement** : Determine which types of content make the highest engagement. 
 - **Improve Customer Feedback Scores** : Understand common themes in customer reviews and provid actionable insights.
@@ -122,6 +122,19 @@ Evaluate Customer feedback and rating to different products to find actionable i
 `.pbix` file and dashboard screen shot are in [Dashboard](https://github.com/Film2549/Film-s-project/tree/main/Dashboard) folder.
 
 ## Data Analysis
+
+Here is a brief analysis and summary following provided goals above. The full presentation slide are the [] file.
+
+1. **Increase Conversion Rates**
+
+Suggesttion : Focus marketing efforts on products that show high conversion rates, such as Kayaks, Ski Boots, and Baseball Gloves. Implement seasonal promotions during peak months (e.g., January and September) to make these trend significantly more profitable.
+
+![image](https://github.com/user-attachments/assets/dccaac12-4acb-4fb3-be4f-f8662358df95)
+
+
+
+
+
 
 
 
