@@ -143,7 +143,7 @@ Blog content drove the most views, especially in April and July, while social me
 
 3. **Improve Customer Feedback Scores**
 
-The majority of customer reviews are in the higher ratings, with 140 reviews at 4 stars and 135 reviews at 5 stars, indicating overall positive feedback.
+The majority of customer reviews are in the higher ratings, with 431 reviews at 4 stars and 409 reviews at 5 stars, indicating overall positive feedback.
 
 **Suggestion** : The existence of mixed positive and mixed negative sentiments suggests that there are opportunities to convert those mixed experiences into more clearly positive ones.
 
