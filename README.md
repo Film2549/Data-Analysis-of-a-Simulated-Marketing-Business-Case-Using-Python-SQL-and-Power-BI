@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/172d6b96-0a80-4ad5-bc3e-eec57294450e)# Data Analysis of a Simulated Marketing Business Case Using Python, SQL and Power BI
+# Data Analysis of a Simulated Marketing Business Case Using Python, SQL and Power BI
 
 ##  Overview
 
