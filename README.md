@@ -23,9 +23,9 @@ given in [Data sauce](https://github.com/Film2549/Film-s-project/tree/main/Data%
 - [Data Model](#data-model)
 - [Query Data Using SQL](#query-data-with-sql)
 - [Sentiment Analysis Using Python](#sentiment-analysis-using-python)
-- [Building an Interactive Dashboard With Power BI](#building-an-interactive-dashboard-with-poer-bi)
+- [Building an Interactive Dashboard With Power BI](#building-an-interactive-dashboard-with-power-bi)
 - [Data Analysis](#data-analysis)
-- [Credit](#credit)
+- [Credits](#credits)
 
 ## Introduction to Business Problem
 Suppose that there are Simulated Market named ShopEasy, an online retail business, is facing reduced customer engagement and conversion rates. They are reaching out to you to help conduct a detailed analysis and identify areas for improvement in their marketing strategies.
@@ -111,7 +111,7 @@ Analyze the conversion by differnt action and product-specific perfomance.
 ### Social Media Page
 Tracks social media important engagement result and the impact of content types.
 
-![image](https://github.com/user-attachments/assets/5d4ce1c3-165d-42ef-8cfe-ba16d16cfc34)
+![image](https://github.com/user-attachments/assets/010b9118-9837-4d03-b7ce-69834b1d2b13)
 
 ### Customer Review Page 
 
@@ -127,15 +127,33 @@ Here is a brief analysis and summary following provided goals above. The full pr
 
 1. **Increase Conversion Rates**
 
-Suggesttion : Focus marketing efforts on products that show high conversion rates, such as Kayaks, Ski Boots, and Baseball Gloves. Implement seasonal promotions during peak months (e.g., January and September) to make these trend significantly more profitable.
+January recorded the highest overall conversion rate at 17.3%, driven significantly by the Ski Boots.
+
+**Suggesttion** : Focus marketing efforts on products that show high conversion rates, such as Kayaks, Ski Boots, and Baseball Gloves. Implement seasonal promotions during peak months (e.g., January and September) to make these trend significantly more profitable.
 
 ![image](https://github.com/user-attachments/assets/ab53e8d4-20c9-439c-a2f2-d1726612e817)
 
 2. **Enhance Customer Engagement**
 
-Suggestion : 
+Blog content drove the most views, especially in April and July, while social media and video content maintained steady.
 
+**Suggestion** : Restore Content Strategy. Experiment with more engaging content formats, such as blog content, particularly during historically lower-engagement months (September-December).
 
+![image](https://github.com/user-attachments/assets/285493f5-e1e1-43df-8457-ca0db362d4a7)
+
+3. **Improve Customer Feedback Scores**
+
+The majority of customer reviews are in the higher ratings, with 140 reviews at 4 stars and 135 reviews at 5 stars, indicating overall positive feedback.
+
+**Suggestion** : The existence of mixed positive and mixed negative sentiments suggests that there are opportunities to convert those mixed experiences into more clearly positive ones.
+
+![image](https://github.com/user-attachments/assets/7840ff39-b6a2-4c47-a45a-7189e0f298d1)
+
+## Credits
+
+Most of contents in this project was created by Jirapat Chaiya, a Computer Engineering student at the Faculty of Engineering, Chulalongkorn University.
+
+This project is inspired and guided by [Ali Ahmad](https://www.youtube.com/@aliahmad1987) Special thanks to him for his valuable insights and tutorials. 
 
 
 
