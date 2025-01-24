@@ -8,7 +8,7 @@ This project helps me understand the process, learn how to use programming langu
 
 ## Data sauce 
 
-given in DataSauce folder ( as `.bak` file )
+given in [Data sauce](./Data-sauce.) folder ( as `.bak` file ).
 
 
 ## Built With
@@ -64,15 +64,29 @@ Open and connect to my local database on my computer using Microsoft SQL Server 
 
 ![image](https://github.com/user-attachments/assets/2055b705-376b-4276-9d3a-ee02600c2a36)
 
-- customers : Query to join dim_customers with dim_geography to enrich customer data with geographic information. The new table is *dim_customers*.
-- products : Query to categoriz products based on their price. The new table is *dim_products*.
-- customer_journey : Query to clean table by removing duplicates, handle missing values by replacing them with calculated averages then get a new table named *fact_customer_journey*.
-- customer_reviews : Query to clean whitespace issues in the reviewText column. The new table is *fact_customer_reviews*.
-- engagement_data : Query for Extracting and splitting combined metrics (Views and Clicks), formatting dates for uniformity, and standardizing values. The new table is *fact_engagement_data*.
+- customers : Query to join dim_customers with dim_geography to enrich customer data with geographic information. The new table is `dim_customers`.
+- products : Query to categoriz products based on their price. The new table is `dim_products`.
+- customer_journey : Query to clean table by removing duplicates, handle missing values by replacing them with calculated averages then get a new table named `fact_customer_journey`.
+- customer_reviews : Query to clean whitespace issues in the reviewText column. The new table is `fact_customer_reviews`.
+- engagement_data : Query for Extracting and splitting combined metrics (Views and Clicks), formatting dates for uniformity, and standardizing values. The new table is `fact_engagement_data`.
 
 You can see full codes in [SQL Queries](./SQL-Queries/) folder.
 
+## Sentiment Analysis Using Python
 
+In the fact_customer_reviews table, there are various review comments. I applied Python libraries to classify and categorize the comments into distinct categories. The nltk library and SentimentIntensityAnalyzer are important in classification of Sentiment. Additionally, pandas and pyodbc also play crucial roles.
+
+![image](https://github.com/user-attachments/assets/73de611c-1c5b-415a-8131-13ed47e22d11)
+
+**Steps**
+1. Import Libaries : `Pandas` for data manipulation, `pyodbc` for database connection, and `nltk` for sentiment analysis.
+2. Fetch Data from SQL Server : Connect to a Microsoft SQL Server database (PortfolioProject_MarketingAnalytics). Run a SQL query to fetch customer review data into a Pandas DataFrame.
+3. Calculate SentimentScore : Initialize `VADER Sentiment Analyzer`, then analyze the ReviewText using VADER and calculate a compound sentiment scores (ranging from -1 to 1). Add `SentimentScore column` to the Dataframe.
+4. Categorize Sentiments : Combine the sentiment score and the review's numerical Rating to classify each review into categories like Positive, Negative, Mixed Positive, etc. Add `SentimentCategory` column to the Dataframe.
+5. Bucket Sentiment Scores : Group a Sentiment score into predefine text ranges such as 0.5 to 1.0 (Strongly Positive), 0.0 to 0.49 (Mildly Positive), etc. Add  `SentimentBucket` column to the Dataframe.
+6. Save the updated DataFrame to a new CSV file named `fact_customer_reviews_with_sentiment.csv`.
+
+you can view full code in [Python Code](./python-code/) folder.
 
 
 
