@@ -131,7 +131,7 @@ January recorded the highest overall conversion rate at 17.3%, driven significan
 
 **Suggesttion** : Focus marketing efforts on products that show high conversion rates, such as Kayaks, Ski Boots, and Baseball Gloves. Implement seasonal promotions during peak months (e.g., January and September) to make these trend significantly more profitable.
 
-![image](https://github.com/user-attachments/assets/ab53e8d4-20c9-439c-a2f2-d1726612e817)
+![image](https://github.com/user-attachments/assets/c35801ba-1ffe-42b0-9453-30df813880bb)
 
 2. **Enhance Customer Engagement**
 
