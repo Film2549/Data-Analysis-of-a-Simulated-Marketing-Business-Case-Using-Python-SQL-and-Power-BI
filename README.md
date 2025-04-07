@@ -6,9 +6,9 @@ This project is inspired by a Youtube tutorial, where I apply and adapt the skil
 
 This project helps me understand the process, learn how to use programming languages in working application, and identify my mistakes to improve. It also shows me how data analysis can help solve real-world business challenges.
 
-## Data sauce 
+## Data source
 
-given in [Data sauce](https://github.com/Film2549/Film-s-project/tree/main/Data%20source) folder ( as `.bak` file ).
+given in [Data source](https://github.com/Film2549/Film-s-project/tree/main/Data%20source) folder ( as `.bak` file ).
 
 
 ## Built With
